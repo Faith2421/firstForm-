@@ -1,2 +1,2 @@
-# wpm-website
-Its a livestock management  with simple CRUD functions.
+a simple form ,for a uni student ,with simple input types
+
